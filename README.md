@@ -1,5 +1,7 @@
 # 🎮 **Game On: Prediciendo el Futuro de los Videojuegos** 🚀
 
+![Banner video Juegos](Banner%20video%20Juegos.jpg)
+
 ## 📋 Descripción breve del problema
 En un mercado global de videojuegos cada vez más competitivo, **Ice Store** busca comprender qué factores influyen en el éxito comercial de un juego. La gran variedad de géneros, plataformas y reseñas dificulta identificar patrones claros para sus campañas de marketing.
 
